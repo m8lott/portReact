@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portReact/static/css/main.9cdf47dc.css",
-    "main.js": "/portReact/static/js/main.f02ec62b.js",
+    "main.js": "/portReact/static/js/main.da2bc1b2.js",
     "static/js/787.28cb0dcd.chunk.js": "/portReact/static/js/787.28cb0dcd.chunk.js",
     "static/media/project-2.png": "/portReact/static/media/project-2.19c800186e8ed04702b7.png",
     "static/media/project-1.jpg": "/portReact/static/media/project-1.43434835643ae642ccbf.jpg",
-    "static/media/project-5.jpg": "/portReact/static/media/project-5.1429b49ecf810924d9d4.jpg",
     "static/media/header-bg.png": "/portReact/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/project-3.png": "/portReact/static/media/project-3.d045cf6a445e84117f1e.png",
     "static/media/project-4.jpg": "/portReact/static/media/project-4.efacf45b1ba86b8bdf71.jpg",
+    "static/media/project-5.png": "/portReact/static/media/project-5.3849035c8b13dc1840e4.png",
     "static/media/sun.svg": "/portReact/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portReact/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/portReact/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
@@ -16,11 +16,11 @@
     "static/media/vk.svg": "/portReact/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
     "index.html": "/portReact/index.html",
     "main.9cdf47dc.css.map": "/portReact/static/css/main.9cdf47dc.css.map",
-    "main.f02ec62b.js.map": "/portReact/static/js/main.f02ec62b.js.map",
+    "main.da2bc1b2.js.map": "/portReact/static/js/main.da2bc1b2.js.map",
     "787.28cb0dcd.chunk.js.map": "/portReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cdf47dc.css",
-    "static/js/main.f02ec62b.js"
+    "static/js/main.da2bc1b2.js"
   ]
 }
