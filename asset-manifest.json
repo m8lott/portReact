@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portReact/static/css/main.8364408b.css",
-    "main.js": "/portReact/static/js/main.388e9c68.js",
+    "main.css": "/portReact/static/css/main.6fb890b9.css",
+    "main.js": "/portReact/static/js/main.0ff5f8f0.js",
     "static/js/787.28cb0dcd.chunk.js": "/portReact/static/js/787.28cb0dcd.chunk.js",
     "static/media/project-6.png": "/portReact/static/media/project-6.899d81425fb011e72de2.png",
     "static/media/project-2.png": "/portReact/static/media/project-2.19c800186e8ed04702b7.png",
@@ -16,12 +16,12 @@
     "static/media/gitHub-black.svg": "/portReact/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/vk.svg": "/portReact/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
     "index.html": "/portReact/index.html",
-    "main.8364408b.css.map": "/portReact/static/css/main.8364408b.css.map",
-    "main.388e9c68.js.map": "/portReact/static/js/main.388e9c68.js.map",
+    "main.6fb890b9.css.map": "/portReact/static/css/main.6fb890b9.css.map",
+    "main.0ff5f8f0.js.map": "/portReact/static/js/main.0ff5f8f0.js.map",
     "787.28cb0dcd.chunk.js.map": "/portReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8364408b.css",
-    "static/js/main.388e9c68.js"
+    "static/css/main.6fb890b9.css",
+    "static/js/main.0ff5f8f0.js"
   ]
 }
