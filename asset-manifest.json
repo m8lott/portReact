@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portReact/static/css/main.2f247aca.css",
-    "main.js": "/portReact/static/js/main.9058efd9.js",
+    "main.css": "/portReact/static/css/main.d8e4ba6d.css",
+    "main.js": "/portReact/static/js/main.096f8c65.js",
     "static/js/787.28cb0dcd.chunk.js": "/portReact/static/js/787.28cb0dcd.chunk.js",
-    "static/media/project-6.png": "/portReact/static/media/project-6.899d81425fb011e72de2.png",
-    "static/media/project-2.png": "/portReact/static/media/project-2.19c800186e8ed04702b7.png",
+    "static/media/project-5.jpg": "/portReact/static/media/project-5.6e7a199a2268ff38618e.jpg",
+    "static/media/project-2.jpg": "/portReact/static/media/project-2.3735dfa4428bf81cbf1e.jpg",
     "static/media/project-1.jpg": "/portReact/static/media/project-1.43434835643ae642ccbf.jpg",
+    "static/media/project-4.jpg": "/portReact/static/media/project-4.1acaf749700932abf879.jpg",
+    "static/media/project-6.jpg": "/portReact/static/media/project-6.15c4a3295ed9e528f962.jpg",
     "static/media/header-bg.png": "/portReact/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/project-3.png": "/portReact/static/media/project-3.d045cf6a445e84117f1e.png",
-    "static/media/project-4.jpg": "/portReact/static/media/project-4.efacf45b1ba86b8bdf71.jpg",
-    "static/media/project-5.png": "/portReact/static/media/project-5.3849035c8b13dc1840e4.png",
     "static/media/sun.svg": "/portReact/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/moon.svg": "/portReact/static/media/moon.312bed9230c94183d589bcc499993093.svg",
     "static/media/gitHub.svg": "/portReact/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "static/media/gitHub-black.svg": "/portReact/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/vk.svg": "/portReact/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
     "index.html": "/portReact/index.html",
-    "main.2f247aca.css.map": "/portReact/static/css/main.2f247aca.css.map",
-    "main.9058efd9.js.map": "/portReact/static/js/main.9058efd9.js.map",
+    "main.d8e4ba6d.css.map": "/portReact/static/css/main.d8e4ba6d.css.map",
+    "main.096f8c65.js.map": "/portReact/static/js/main.096f8c65.js.map",
     "787.28cb0dcd.chunk.js.map": "/portReact/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f247aca.css",
-    "static/js/main.9058efd9.js"
+    "static/css/main.d8e4ba6d.css",
+    "static/js/main.096f8c65.js"
   ]
 }
